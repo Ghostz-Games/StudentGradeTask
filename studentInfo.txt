@@ -1,0 +1,10 @@
+Nicklas, 12
+Lars, 7
+Peter, 10
+Jørgen, 4
+Hans, 02
+Lone, 12
+Lise, 00
+Karsen, 00
+Thomas, 02
+Sarah, 7
